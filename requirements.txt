@@ -1,0 +1,12 @@
+keras
+tensorflow
+scikit-learn
+scipy
+pydot
+h5py
+graphviz
+jupyterlab
+notebook
+matplotlib
+pandas
+ipykernel

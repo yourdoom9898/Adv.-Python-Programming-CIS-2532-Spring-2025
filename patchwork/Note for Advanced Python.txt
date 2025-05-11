@@ -1,0 +1,2 @@
+This folder is meant to be a repository involved in the Git-it tutorial on cloning a remote repo.
+Git will not allow you to nest repositories due to security issues, so the files have been copied over for archival purposes.
